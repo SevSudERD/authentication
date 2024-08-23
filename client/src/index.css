@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-signup-bg {
+  background-image: url('https://external-preview.redd.it/-fmo5390YrTn_Z-cSx5k58es-4VZizT6HuOcfMFCy_s.png?auto=webp&s=0942b82f31fa685b75fcac2e519eb749f1e30f02');
+}
+
+.bg-signin-bg {
+    background-image: url('https://mrwallpaper.com/images/hd/artwork-of-baby-yoda-qkeh7vzbi8uocc7l.jpg')
+}
+
+.bg-about-bg {
+  background-image: url('https://cdn.wallpapersafari.com/81/95/Z7D2q6.jpg');
+}
+
